@@ -1,0 +1,83 @@
+/* --- Original 4 Orbs --- */
+.orb1 {
+    background: #8b5cf6;
+    top: 10%;
+    left: 15%;
+}
+
+.orb2 {
+    background: #3b82f6;
+    top: 75%;
+    left: 70%;
+}
+
+.orb3 {
+    background: #ec4899;
+    top: 50%;
+    left: 8%;
+}
+
+.orb4 {
+    background: #06b6d4;
+    top: 20%;
+    left: 88%;
+}
+
+/* --- New 8 Orbs --- */
+.orb5 {
+    background: #10b981; /* Emerald Green */
+    top: 85%;
+    left: 25%;
+}
+
+.orb6 {
+    background: #f59e0b; /* Amber Amber Gold */
+    top: 35%;
+    left: 45%;
+}
+
+.orb7 {
+    background: #ef4444; /* Coral Red */
+    top: 65%;
+    left: 80%;
+}
+
+.orb8 {
+    background: #a855f7; /* Bright Purple */
+    top: 5%;
+    left: 60%;
+}
+
+.orb9 {
+    background: #f43f5e; /* Rose Pink */
+    top: 90%;
+    left: 5%;
+}
+
+.orb10 {
+    background: #14b8a6; /* Teal Sparkle */
+    top: 45%;
+    left: 85%;
+}
+
+.orb11 {
+    background: #6366f1; /* Deep Indigo */
+    top: 70%;
+    left: 40%;
+}
+
+.orb12 {
+    background: #eab308; /* Bright Yellow */
+    top: 15%;
+    left: 35%;
+}
+
+
+
+
+
+// Pink Shades
+  'pink', 'magenta', 'fuchsia', 'hotpink', 'deeppink', 
+  'lightpink', 'pinklace', 'rose', 'blush', 'coralpink', 
+  'salmonpink', 'bubblegum', 'flamingo', 'carnation', 'lavenderpink',
+  

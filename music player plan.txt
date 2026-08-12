@@ -1,0 +1,94 @@
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  MUSIC                                              ♡       │
+│                                                             │
+│                 ╭────────────────────╮                      │
+│                 │                    │                      │
+│                 │                    │                      │
+│                 │    ALBUM COVER     │                      │
+│                 │                    │                      │
+│                 │                    │                      │
+│                 ╰────────────────────╯                      │
+│                                                             │
+│                    Midnight City                            │
+│                        M83                                  │
+│                                                             │
+│              1:32  ━━━━━━━●━━━━━━━━  4:03                  │
+│                                                             │
+│                    ↻    ◀   ●   ▶    ♡                     │
+│                                                             │
+│                     🔊 ━━━━━●━━                            │
+│                                                             │
+│                   ─────────────                             │
+│                   NEXT: After Dark                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+Background: near-black/navy
+body {
+    background: #080810;
+}
+
+
+Then have large blurred neon blobs floating behind the player:
+             🟣
+       blurred purple glow
+
+
+                  ┌───────────────┐
+       🔵         │               │
+                  │    PLAYER     │
+                  │               │
+                  └───────────────┘
+
+                            🟣
+
+
+Glass player
+.player {
+    background: rgba(255, 255, 255, 0.06);
+    backdrop-filter: blur(25px);
+
+    border: 1px solid rgba(255,255,255,0.1);
+
+    border-radius: 30px;
+}
+
+
+Album artwork:
+Around 300 × 300px on desktop.
+
+
+
+( ▶ ) is a 55–65px glowing glass circle or hover
+       ↻    ◀    ( ▶ )    ▶    ♡
+
+
+
+
+
+                  🟣 blurred glow
+
+
+             ╭──────────────────────╮
+             │ MUSIC            ♡   │                             │
+             │                      │                                              │
+             │    ╭────────────╮                       │
+             │    │            │                                                 │
+      🔵     │    │   ALBUM    │                                     │
+             │    │            │                                                 │
+             │    ╰────────────╯                       │
+             │                                                                       │
+             │    Midnight City                                   │
+             │         M83                                                      │
+             │                                                                       │
+             │ 1:32 ━━━●━━━━ 4:03                           │
+             │                                                                      │
+             │  ↻  ◀  ( ▶ ) ▶  ♡                                    │
+             │                                                                     │
+             │    🔊 ━━━━━●━━                                   │
+             │                                                                      │
+             ╰──────────────────────╯
+
+
+                              🟣
