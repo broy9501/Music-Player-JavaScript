@@ -1,4 +1,4 @@
-﻿# 🎵 Neon Music Player
+﻿# Neon Music Player
 
 A **Neon Music Player** built with **HTML, CSS and JavaScript**.
 
@@ -19,7 +19,7 @@ A **Neon Music Player** built with **HTML, CSS and JavaScript**.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Frontend
 
@@ -34,7 +34,7 @@ The background animation is created using CSS rather than external animation lib
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 neon-music-player/
@@ -56,7 +56,7 @@ neon-music-player/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 JavaScript interacts with the audio element:
 
@@ -84,7 +84,7 @@ This allows the interface to stay synchronised with the music.
 
 ---
 
-## 🧠 JavaScript Learning
+## JavaScript Learning
 
 This project was specifically built to strengthen my JavaScript skills through practical development.
 
@@ -134,7 +134,7 @@ This allows the player to dynamically load different tracks instead of hardcodin
 ---
 
 
-## 🎯 Purpose
+## Purpose
 
 This project is part of my journey learning **JavaScript through practical projects**.
 
